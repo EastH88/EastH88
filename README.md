@@ -59,9 +59,6 @@ I love turning cutting-edge research papers into real-world production models. ð
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EastH88&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EastH88&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
 </div>
 
 <div align="center">
