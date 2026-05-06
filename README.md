@@ -71,7 +71,6 @@ I love turning cutting-edge research papers into real-world production models. ð
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=EastH88&color=blueviolet&style=flat-square)
 
 </div>
 
